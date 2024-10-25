@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9E1AE8-ECD9-4157-BC08-6BE285E0C914}|Lab_05\\Lab_05.vcxproj|C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05\\Lab_05_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC9E1AE8-ECD9-4157-BC08-6BE285E0C914}|Lab_05\\Lab_05.vcxproj|solutionrelative:Lab_05\\Lab_05_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCACD50-D0F0-4366-8BD4-E31F6F873511}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCCACD50-D0F0-4366-8BD4-E31F6F873511}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035BE434-4031-4C2A-A95F-84A6CD27982C}|Lab_05_05\\Lab_05_05.vcxproj|C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_05\\Lab_05_05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{035BE434-4031-4C2A-A95F-84A6CD27982C}|Lab_05_05\\Lab_05_05.vcxproj|solutionrelative:Lab_05_05\\Lab_05_05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBAE445-1349-4FF2-8316-DFDDA814E746}|Lab_05_04\\Lab_05_04.vcxproj|C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_04\\Lab_05_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DBAE445-1349-4FF2-8316-DFDDA814E746}|Lab_05_04\\Lab_05_04.vcxproj|solutionrelative:Lab_05_04\\Lab_05_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D29FCA-AD1B-4CCD-8022-8771D193E009}|Lab_05_03\\Lab_05_03.vcxproj|C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_03\\Lab_05_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27D29FCA-AD1B-4CCD-8022-8771D193E009}|Lab_05_03\\Lab_05_03.vcxproj|solutionrelative:Lab_05_03\\Lab_05_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBAF194-F388-46D8-A02E-32EF454013A1}|Lab_05_02\\Lab_05_02.vcxproj|C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_02\\Lab_05_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BBAF194-F388-46D8-A02E-32EF454013A1}|Lab_05_02\\Lab_05_02.vcxproj|solutionrelative:Lab_05_02\\Lab_05_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEF747C-D3CE-43F6-BB34-02931F3D3507}|UnitTest5\\UnitTest5.vcxproj|C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest5\\UnitTest5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DEF747C-D3CE-43F6-BB34-02931F3D3507}|UnitTest5\\UnitTest5.vcxproj|solutionrelative:UnitTest5\\UnitTest5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED6206C-80C0-40D0-9A6A-8607F78F8E49}|UnitTest2\\UnitTest2.vcxproj|C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ED6206C-80C0-40D0-9A6A-8607F78F8E49}|UnitTest2\\UnitTest2.vcxproj|solutionrelative:UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D734258A-AF8A-414A-A0AD-B7F3D2727D4F}|UnitTest3\\UnitTest3.vcxproj|C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest3\\UnitTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D734258A-AF8A-414A-A0AD-B7F3D2727D4F}|UnitTest3\\UnitTest3.vcxproj|solutionrelative:UnitTest3\\UnitTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60112DC1-4B8C-441D-8E98-CEC3450268BF}|UnitTest4\\UnitTest4.vcxproj|C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest4\\UnitTest4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60112DC1-4B8C-441D-8E98-CEC3450268BF}|UnitTest4\\UnitTest4.vcxproj|solutionrelative:UnitTest4\\UnitTest4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest5.cpp",
+              "DocumentMoniker": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest5\\UnitTest5.cpp",
+              "RelativeDocumentMoniker": "UnitTest5\\UnitTest5.cpp",
+              "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest5\\UnitTest5.cpp",
+              "RelativeToolTip": "UnitTest5\\UnitTest5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T11:54:55.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab_05_05.cpp",
+              "DocumentMoniker": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_05\\Lab_05_05.cpp",
+              "RelativeDocumentMoniker": "Lab_05_05\\Lab_05_05.cpp",
+              "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_05\\Lab_05_05.cpp",
+              "RelativeToolTip": "Lab_05_05\\Lab_05_05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T21:04:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest4.cpp",
+              "DocumentMoniker": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest4\\UnitTest4.cpp",
+              "RelativeDocumentMoniker": "UnitTest4\\UnitTest4.cpp",
+              "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest4\\UnitTest4.cpp",
+              "RelativeToolTip": "UnitTest4\\UnitTest4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T14:59:09.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab_05_04.cpp",
+              "DocumentMoniker": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_04\\Lab_05_04.cpp",
+              "RelativeDocumentMoniker": "Lab_05_04\\Lab_05_04.cpp",
+              "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_04\\Lab_05_04.cpp",
+              "RelativeToolTip": "Lab_05_04\\Lab_05_04.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:58:12.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest3.cpp",
+              "DocumentMoniker": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest3\\UnitTest3.cpp",
+              "RelativeDocumentMoniker": "UnitTest3\\UnitTest3.cpp",
+              "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest3\\UnitTest3.cpp",
+              "RelativeToolTip": "UnitTest3\\UnitTest3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:41:30.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab_05_03.cpp",
+              "DocumentMoniker": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_03\\Lab_05_03.cpp",
+              "RelativeDocumentMoniker": "Lab_05_03\\Lab_05_03.cpp",
+              "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_03\\Lab_05_03.cpp",
+              "RelativeToolTip": "Lab_05_03\\Lab_05_03.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T12:10:18.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest2.cpp",
+              "DocumentMoniker": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest2\\UnitTest2.cpp",
+              "RelativeDocumentMoniker": "UnitTest2\\UnitTest2.cpp",
+              "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest2\\UnitTest2.cpp",
+              "RelativeToolTip": "UnitTest2\\UnitTest2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T21:23:49.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab_05_02.cpp",
+              "DocumentMoniker": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_02\\Lab_05_02.cpp",
+              "RelativeDocumentMoniker": "Lab_05_02\\Lab_05_02.cpp",
+              "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05_02\\Lab_05_02.cpp",
+              "RelativeToolTip": "Lab_05_02\\Lab_05_02.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T20:52:30.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T20:28:51.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_05_01.cpp",
+              "DocumentMoniker": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05\\Lab_05_01.cpp",
+              "RelativeDocumentMoniker": "Lab_05\\Lab_05_01.cpp",
+              "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_05\\Lab_05\\Lab_05\\Lab_05_01.cpp",
+              "RelativeToolTip": "Lab_05\\Lab_05_01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T19:17:55.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
