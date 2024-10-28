@@ -15,6 +15,7 @@ int main()
 
     cout << "Number of partitions of a positive integer: " << result << endl;
     cout << "Recursion depth is: " << depth << endl;
+   
 
     return 0;
 }
@@ -23,7 +24,8 @@ int Q(int m, int n, int level, int& depth)
 {
     if (level > depth)
         depth = level;
-
+    cout << "Recursion level is: " << level << endl;
+    
     if (m == 1 || n == 1)
         return 1;
 
